@@ -6,6 +6,9 @@
     "violet violet orange "
     "green yellow orange"
     ". blue red";
+  /*grid-column-gap: 20px;
+  grid-row-gap: 10px;*/
+  grid-gap: 10px 20px;
   /*height: 400px;
   width: 500px;*/
 }

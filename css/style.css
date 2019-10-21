@@ -1,5 +1,9 @@
 .container {
   display: grid;
+  grid-template-columns: [first] 150px [second] 200px [third] 300px [last] ;
+  grid-template-rows: 1fr 2fr;
+  /*height: 400px;
+  width: 500px;*/
 }
 .item {
   width: 100px;
